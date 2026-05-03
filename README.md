@@ -6,6 +6,12 @@ Business managament major, CIS minor
 
 * 🌍  I'm based in Florence, Alabama
 
+## 📂 Featured Project
+### Shion's CIS 376 Portfolio
+
+> Personal web development portfolio built in CIS 376, featuring projects and how to codethat I learned in the class.
+
+🔗https://github.com/shion11111/portfolio
 
 <!--
 **shion11111/shion11111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
