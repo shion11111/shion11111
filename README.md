@@ -11,7 +11,8 @@ Business managament major, CIS minor
 
 > Personal web development portfolio built in CIS 376, featuring projects and how to codethat I learned in the class.
 
-🔗https://github.com/shion11111/portfolio
+🔗Repo: https://github.com/shion11111/portfolio
+🔗App: https://shion11111.github.io/portfolio/
 
 <!--
 **shion11111/shion11111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
