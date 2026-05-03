@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Business managament major, CIS minor
 ------------------------------------
 
-* 🌍  I'm based in Florence, Alabama
-
 ## 📂 Featured Project
 ### Shion's CIS 376 Portfolio
 
